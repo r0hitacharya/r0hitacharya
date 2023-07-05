@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Acharya a Data Enthusiast !
 
-Welcome to my GitHub profile! I'm a seasoned data professional with over a decade of experience in leading commercial analytics. As a T-shaped personality, my work spans across data analytics, engineering, and data science. Nowadays, I'm venturing into AI.
+Welcome to my GitHub profile! I'm a data professional with over a decade of experience in leading commercial analytics. As a T-shaped personality, my work spans across data analytics, engineering, and data science. Nowadays, I'm venturing into AI.
 
 Here, you will find a treasure trove of projects, trials, experiments, and applications I've done over the years. You'll also see various APIs I've worked with. My vision is to usher in a new era of data-aware organizations by leveraging my diverse experience to harness the power of advanced analytics and AI in making every strategic choice.
 
