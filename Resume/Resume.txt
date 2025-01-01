@@ -1,26 +1,24 @@
-System Message:
-You are Rohit Acharya who has over 12 years of experience working in the data field in Singapore 
-
-Show Links whenever a question related to link is asked and put a disclaimer that the data in the picture is fictional and not actual
-
-Ask the user to reach out at rohit.acharyar@gmail.com if any question cannot be answered.
-
-Answer the questions under different sub headings
-
-Do not answer personal questions.
-
-rory
-Experienced data professional with 15+ years of success in transforming data strategies for leading hotel chains, e-commerce firms, and public sector organizations. Expert in building and scaling data departments, architecting cloud data warehouses, and implementing data-driven business improvements. Proven track record in leveraging AGILE methodologies to deliver rapid, cost-effective solutions that drive business growth
-
 Philosophy:
-Driven by 12+ years of data expertise, My passion lies in creating intuitive platforms that empower users across all levels to independently discover and act on data-driven insights By embedding AI and advanced analytics into organizational fabric, I build data-driven cultures that drive innovation and growth.  I believe every employee should be a strategic partner in business optimization
-I firmly believe that we need to have Ground-Level Understanding: In order to truly understand the data we generate, we must be immersed in the company's operations.
-I am a hybrid blend of applying my technical prowess to business outcomes
+With a decade-plus of experience in a diverse array of data roles across three different domains, I have strived to develop a T-shaped personality that enables me to think laterally and tackle complex problems. My vision is to help organizations transcend the barriers to AI adoption and unlock its full potential in the digital age.
 
+As a member of NTT's Sales Intelligence Operations team, my primary focus is on developing a comprehensive AI strategy that sets a clear direction for establishing a vision for the AI Center of Excellence (COE)
+
+At NTT's Global Client Success, I leverage data-driven insights to proactively match dedicated managers with clients, identifying mutually beneficial relationships through data science techniques. Our program leverages automated success plays, powered by data-driven triggers, to optimize client relationships and revenue growth.
+
+My journey with Zalora has been in evolving analytics from the ground up by implementing self-service analytics platform by managing internal, external and team dependent stakeholders. developing data infrastructure whenever needed and enabling key decision makers in the company by providing them with cutting-edge analytic insights.
+
+My tenure at Marina Bay Sands, a premier and iconic destination in Singapore, was dedicated to leveraging analytics to enhance gaming experiences. I focused on data-driven personalization initiatives for Paiza (VIP) clientele, orchestrating financial planning for baccarat and blackjack tournaments, and optimizing table revenue metrics and player retention. These experiences provided me unique insights into the gaming industry and the importance of delivering exceptional customer experiences.
+
+My experience collaborating with European and Southeast Asian teams at Zalora, engaging high-net-worth Asian clients at Marina Bay Sands, and addressing diverse industry use cases in a global role at NTT has solidified my pursuit of a T-shaped skill set
+
+My global perspective has been meticulously cultivated through annual explorations of the world's diverse cultures, with a personal goal to visit at least two new countries each year.
+
+I am eager to connect with professionals over engaging conversations - from serene park stroll, derivative trading, artisanal coffee, or during a spirited game of badminton or soccer. Let's discuss data and explore vegan breakfast spots.
 
 Contact Information:
 people can reach out to me at email:rohit.acharyar@gmail.com
 Linkedin profile can be found at https://www.linkedin.com/in/rohitacharyar
+Chat with me (Chatbot) link at https://rohitbot.azurewebsites.net/
 
 Other Info about me:
 Harvard Business Review Advisor Since Sep 2019 - Present
@@ -29,37 +27,27 @@ Microsoft Certified: Power BI Data Analyst Associate in 2020
 Microsoft Certified: Azure AI Fundamentals in 2023
 SAS Certified Base Programmer in 2012
 
-
 Career
 
 NTT Ltd 
 Singapore
 AI Lead Sales Intelligence 
 Mar23 – Till Date
-Upskilling in GenAI models using NTT's Azure OpenAI platform, leveraging state-of-the-art architectures to drive sales intelligence innovation under salesforce
-Designed and developed MVP for Client Whitespace Engine, utilizing AI-driven insights to identify high-value sales opportunities
-Implemented LLM-based Solution Recommendation Engine, improving sales team efficiency by 12% (Time to Quote, Offer Build etc.) through enhanced insights
-
 
 NTT Ltd 
 Singapore
 Client Success Senior Data Scientist
 Jun20 – Mar23
-Leveraging data to identify opportunities for upselling and cross-selling to clients. (Expansion)
-Tackling NTT Services Adoption in clients by deploying Scoring Models to identify problem areas proactively for client success managers (Adoption)
-Aiding Cadence with clients by generating automated renewal quotes, pricing and renewal insights (Renewal)
 
 NTT Ltd 
 Singapore
 Client Success Data Architect
 Jan19 – Jun20
-Architecting T1 systems like Salesforce, SAP, ServiceNow by utilizing APIs resulting in single source of truth for Client Success Function for around 16,000 member Client Success Program
 
 Zalora 
 Singapore
 Associate Director for Business Intelligence
 Apr16 – Dec18
-As an analytical lead, Managed a team of 4 BI and 6 Datawarehouse specalists. Reported to CFO. Data consultant to Zalora`s Vendors. 
 
 Zalora 
 Singapore
@@ -70,9 +58,6 @@ Marina Bay Sands
 Singapore
 Casino Marketing Analyst
 Jul12 – Mar14
-Designed and measured behavioral (RCTs) experiments on test and control groups within a casino, identifying key drivers of churn and retention
-Establishing SAS based data marts to power dashboards for operations
-
 
 Projects
 
@@ -101,21 +86,70 @@ Successfully deployed the cube solution from development to test and production 
 Skills: Microsoft Cube Deployment, SAPICM, Financial Modeling, Commission KPI framework
 
 Project4:Enterprise Systems Integration: Multi-Platform Data Architecture for Client Success Analytics
-Architected and implemented a comprehensive data integration solution connecting multiple enterprise systems (Salesforce, SAP, ServiceNow) with tier-3 platforms, resulting in unified client success analytics
-Designed and developed REST API integrations and ETL pipelines to seamlessly transfer data between systems, reducing data silos and enabling real-time client insights
+Architected and implemented a comprehensive data integration solution connecting multiple enterprise systems (Salesforce, SAP, ServiceNow) with tier-3 platforms, resulting in unified client success analytics on the totango client success platform
+Designed and developed REST API integrations from totango and ETL pipelines to seamlessly transfer data between systems, reducing data silos and enabling real-time client insights
 Engineered a custom DataMart solution by strategically selecting and consolidating critical data points from multiple tier-1 systems, enhancing client success team's decision-making capabilities
 The aim is to proactively align a dedicated manager to clients in different continents that research and data would suggest a mutually beneficial relationship. The main technology behind the program is to run success plays (automated set of tasks) which will trigger actions based on data to effectively expand through up-sells and cross-sells, increase platform adoption and ensure timely contract renewals.
 Reduced manual data consolidation effort by 70% through automated data integration and standardized reporting processes
 
-Project5:
+Project5: Automated Client Intelligence Platform
+Architected automated presentation system generating data-driven QBR decks for 1000+ global clients, reducing CSM preparation time from days to minutes across 80 CSM teams
+Implemented market basket analysis algorithm identifying product affinity patterns, generating targeted upsell/cross-sell recommendations achieving 10% conversion rateBuilt predictive analytics engine analyzing ITSM/ServiceNow ticket patterns to benchmark client service utilization against industry standards
+Built predictive analytics engine analyzing ITSM/ServiceNow ticket patterns to benchmark service utilization, enabling data-driven conversations during quarterly reviews
+Created automated data pipeline integrating ACV/MRR metrics, product usage, and service management data from Tier-1 systems to provide real-time client health metrics
 
+Skills: Machine Learning, PowerPoint Automation, Market Basket Analysis, ETL Pipeline Development, Predictive Analytics
 
+Standard Client Deck Illustration Link1 https://raw.githubusercontent.com/r0hitacharya/r0hitacharya/refs/heads/main/Resume/Standard_client_deck_upxsell.png
 
+Project6: Enterprise Solution Recommendation Engine
+Built comprehensive data pipeline integrating contractual data, sales opportunities, and client success metrics to power real-time solution recommendations Led the end-to-end development of an LLM-based Solution Recommendation Engine, integrating data from SAPGT (contractual data), Salesforce, and Totango platform to create a comprehensive client insights database
+Engineered a similarity-based recommendation algorithm that analyzes past successful solutions across similar client profiles, resulting in a 25% increase in solution relevance scores as rated by sales teams
+Implemented a feedback loop system that captures sales team inputs and client acceptance rates, continuously improving the recommendation accuracy which reached 85% precision after six months
 
+Project7: AI Driven Data Quality Transformation
+Spearheaded enterprise-wide data quality integrating AI/ML along with traditional validation approaches across SAP, Salesforce, and ServiceNow systems, achieving 95% data accuracy across 50TB of global enterprise data
+Engineered scalable data quality framework using Azure Data Factory and ML Studio, deploying intelligent automation that reduced manual cleansing by 70% and saved 1,000 work hours monthly
+Pioneered innovative GenAI solutions for data standardization, successfully normalizing 1M+ company records with 99% accuracy and improving address geocoding precision to 98%
+Architected real-time anomaly detection system using custom ML models, identifying 85% of quality issues pre-emptively and reducing quality incident tickets by 75%
+Implemented cost-optimized hybrid cleaning architecture combining rule-based and AI processes, reducing data processing costs by 40% through intelligent API utilization
 
+Project8:Enterprise Renewals Transformation Lead for Salesforce
+Architected comprehensive renewals management system integrating SAP, Totango, and Salesforce platforms, implementing a sophisticated 180-day advance renewal pipeline that transformed contract management across global regions
+Engineered innovative data transformation framework bridging SAP's SKU-level granularity with Salesforce's opportunity structure, developing complex aggregation logic that maintained data integrity while consolidating multiple contract lines into strategic opportunity groups
+Developed intelligent regional policy enforcement system automatically processing renewal contracts according to European market requirements, while implementing automated FX table alignment for accurate cross-region financial reporting
+Created advanced exception handling system with automated Salesforce API notifications, generating targeted tasks and alerts that streamlined communication between regional opportunity owners and reduced resolution time
+Built comprehensive error management and data quality framework, implementing automated validation checks and discrepancy reporting that significantly improved renewal process accuracy
 
+Project9: Global Enterprise AI COE Comittee Member
+Led the enterprise-wide Generative AI Steering Committee across NTT DATA global entities, establishing the foundational AI Center of Excellence structure aligned with the "AI for Good" initiative and creating the formal Generative AI Office.
+Architected the comprehensive AI governance framework and risk management program, bringing together cross-functional stakeholders (legal, compliance, privacy, security) to implement controls ensuring AI trustworthiness and regulatory compliance.
+Developed the ModelOps and technical infrastructure strategy, creating an agnostic framework that integrates AI systems, architectures, and security monitoring while supporting multiple AI model types (ML, knowledge graphs, generative AI).
+Established the strategic Build vs. Buy framework for AI technologies, alongside a systematic AI Use Case Catalogue methodology for evaluating and prioritizing enterprise AI initiatives based on business value.
+Implemented enterprise-wide standards for Explainable AI and privacy-enhancing computation, ensuring transparency in algorithmic decision-making while maintaining data protection through techniques like synthetic data generation.
 
+Project10:Cisco Partner Lifecycle Analytics Lead - Revenue Optimization
+Architected end-to-end data pipeline integrating Cisco Partner APIs (PX Cloud, SmartAccounts) with Totango platform, enabling real-time tracking of customer lifecycle metrics and incentive opportunities worth $192,500 per engagement
+Engineered automated ETL processes using Cisco DevNet platform to transform device telemetry and adoption data into actionable insights, integrating with NTT DATA's customer success metrics
+Implemented comprehensive tracking system for Cisco incentive programs (VIP, Perform Plus) across Align, Purchase, Use, Adopt, and Expand phases, optimizing revenue potential through automated eligibility monitoring
+Built real-time synchronization between Cisco SmartAccounts and Totango for hardware/software configurations, enabling proactive management of activation rates and feature adoption
+Developed global analytics framework providing visibility into incentive earnings and adoption metrics across regions, with automated alerts for expansion opportunities and renewal risks
 
+Project11:CSM Headcount Planning
+Designed a comprehensive CSM staffing model by analyzing key success metrics across client portfolios in Europe, MEA, and APAC regions, transforming traditional experience-based hiring into a data-driven decision framework.
+Developed dynamic KPI weightage system in Power BI allowing regional leaders to adjust importance of metrics like revenue, product complexity, support tickets, adoption rates, and customer satisfaction scores based on local market conditions.
+Created predictive models to forecast CSM workload capacity by analyzing factors like customer maturity, product portfolio size, implementation complexity, and support requirements.
+Built automated scoring system that evaluates accounts on multiple dimensions (technical complexity, business value, growth potential, risk factors) to determine optimal CSM-to-account ratios.
+Created regional benchmarking capabilities within the Power BI dashboard, allowing leadership to compare CSM efficiency metrics across different regions and optimize resource allocation based on proven success patterns.
+
+Project 12:Salesforce Renewal Autoloader (SRA) Initiative
+
+Designed and implemented the SFDC Autoloader project, a large-scale automation initiative that streamlines the renewal process for a global client base, increasing productivity and efficiency of the renewal team.
+Developed a data transformation framework that takes renewals data from SAP, applies regional rules and client segmentation, and generates upload templates for Salesforce, ensuring seamless integration and data consistency.
+Collaborated with cross-functional teams to define and implement product mapping with SKUs in SAP, enabling accurate and efficient processing of renewals and growth opportunities.
+Implemented data aggregation and filtering logic to identify and prioritize opportunities, ensuring that high-value renewals are processed efficiently and effectively.
+Created a rules engine that applies various regional rules for renewals and growth, taking into account client segmentation, product mapping, and bundling of renewals (contract consolidation).
+Achieved significant cost savings and productivity gains by automating the renewal process, allowing the renewal team to focus on high-value activities and improving overall customer satisfaction, with a potential to scale the solution to other regions and teams.
 
 Zalora
 Project1
@@ -164,7 +198,7 @@ Led enterprise-wide transition from Excel-based reporting to cloud BI tool calle
 Designed and implemented C-suite executive scorecards following Edward Tufte visualization principles, providing daily performance metrics to CFO and leadership team
 Built comprehensive Buying Datamart for commercial team, standardizing KPIs and enabling data-driven purchasing decisions across all markets
 develop tools and dashboards that would address key weaknesses stemming from inexperience and inconsistent commercial practices by adopting BI best practices.
-Images of the dashboard implemented can be found in this link can be found here https://i.imgur.com/PQ8inoE.png
+Images of the dashboard implemented can be found in this link can be found here https://github.com/r0hitacharya/r0hitacharya/blob/main/Resume/Buying_Intelligence_Dashboard_Zalora.png?raw=true
 
 Project7
 Title:Pricing Engine
@@ -172,6 +206,16 @@ Architected and deployed enterprise pricing engine for Global Fashion Group, suc
 Implemented dynamic pricing algorithm analyzing real-time market demand and inventory levels to automatically adjust prices for optimal margin realization
 Created premium pricing strategy for luxury segments, successfully positioning high-end products while maintaining market competitiveness through data-driven price discrimination
 Skills: Pricing Analytics, Algorithm Development, Market Analysis, Strategy Implementation, Cross-market Deployment
+
+Project8:
+Title:Client Prioritization Engine: Data-Driven Account Segmentation and Sales Strategy Framework
+Architected a multi-dimensional client segmentation model categorizing NTT DATA's client base like Growth, Value, Maintain, Emerging etc.
+Integrated diverse data sources including Salesforce opportunity data, SAP financial metrics, ITSM service delivery KPIs, and account planning documentation to create a unified client view for segmentation analysis.
+Created automated scoring algorithms weighing factors like current revenue, historical growth rate, project complexity, technology adoption, strategic alignment, and relationship strength to determine segment placement.
+Implemented machine learning models to analyze patterns in successful client relationships, identifying key indicators that predict future growth potential and strategic partnership opportunities.
+Developed industry-specific segmentation overlays accounting for unique characteristics and opportunities within sectors like Banking, Healthcare, Manufacturing, and Public Sector.
+
+
 
 Marina Bay Sands
 Project1
@@ -347,26 +391,3 @@ Few important quotes I believe in:
 2.Receive without pride let go without attachment - Marcus Aurelius
 3.The first principle is that you must not fool yourself and you are the easiest person to fool - Richard Feynman
 4.The World is changed by your example, not by your opinion - Paulo Coelho
-
-Management Consultant Mental Models I have been trained on
-1. First Principles Approach
-Breaking down complex data problems into their fundamental components and optimizing from there.
-Example: When analyzing customer purchasing behavior, instead of relying on pre-built models, break down the problem into its core components, such as customer demographics, purchase history, and product features. Then, rebuild and optimize the analysis from there
-2. Second-Order Thinking
-Looking beyond the obvious insights and considering the potential consequences of data-driven decisions.
-Example: When analyzing sales data, instead of just identifying the best-selling products, consider the potential cannibalization of sales from other products, or the potential impact on customer satisfaction and loyalty.
-3. Inversion Principle
-Flipping the question or problem on its head to gain new insights and perspectives.
-Example: Instead of asking "What factors contribute to customer churn?", ask "What factors contribute to customer retention?" This can help identify key differences between retained and churned customers.
-4. Fundamental Attribution Error
-Being open to revising assumptions and conclusions based on new data or evidence.
-Example: When analyzing customer feedback data, avoid assuming that negative feedback is solely due to product issues. Instead, consider alternative explanations, such as user error or unrealistic expectations.
-5. Multidisciplinary Thinking (Range)
-Combining insights and methods from multiple fields, such as statistics, machine learning, and domain expertise, to tackle complex data problems.
-Example: When analyzing customer purchasing behavior, combine insights from statistical modeling, machine learning algorithms, and domain expertise in marketing and psychology to gain a more comprehensive understanding of customer decision-making.
-6. Occam's Razor
-Favoring simple, intuitive explanations over complex, convoluted ones when interpreting data insights.
-Example: When analyzing sales data, instead of proposing a complex, multi-factor model to explain changes in sales, consider simpler explanations, such as changes in pricing, marketing campaigns, or seasonality.
-7. Hanlon's Razor
-Avoiding the assumption that unexpected or unusual data insights are the result of malicious or intentional actions, and instead considering alternative explanations, such as data quality issues or sampling errors.
-Example: When analyzing customer feedback data, instead of assuming that a sudden spike in negative feedback is due to a deliberate attempt to sabotage the company, consider alternative explanations, such as a change in data collection methodology or a sampling error.
